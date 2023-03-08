@@ -32,6 +32,7 @@ local function translator(input, seg)
            最终的效果是输入法候选框中出现两个格式不同的当前日期的候选项。
       --]]
       yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), " -日期"))
+      yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), " -日期"))
    end
 
    if (input == "year") then
