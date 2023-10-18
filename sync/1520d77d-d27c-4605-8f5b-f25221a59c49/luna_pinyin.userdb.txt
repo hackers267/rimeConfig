@@ -1,0 +1,39 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	53
+#@/user_id	1520d77d-d27c-4605-8f5b-f25221a59c49
+bu fen 	部分	c=1 d=0.873716 t=53
+bu tong 	不同	c=1 d=0.923116 t=53
+cai wu 	財務	c=2 d=1.83029 t=53
+cao zuo 	操作	c=1 d=1 t=53
+cha kan 	查看	c=3 d=2.57999 t=53
+cheng zu 	承租	c=1 d=0.852144 t=53
+cong 	從	c=1 d=0.847894 t=53
+de 	的	c=6 d=5.25145 t=53
+di zhi 	地址	c=1 d=0.856415 t=53
+fang bian 	方便	c=2 d=1.82116 t=53
+fang chan 	房產	c=2 d=1.96042 t=53
+fu jian 	附件	c=2 d=1.6091 t=53
+ge li 	隔離	c=1 d=0.918512 t=53
+gen jin 	跟進	c=1 d=0.932394 t=53
+gong neng 	功能	c=1 d=0.818731 t=53
+he 	和	c=5 d=4.41546 t=53
+he tong 	合同	c=1 d=0.965605 t=53
+jin xing 	進行	c=1 d=0.909373 t=53
+ming xia 	名下	c=1 d=0.955997 t=53
+que ren 	確認	c=1 d=0.786628 t=53
+ren 	人	c=1 d=0.937067 t=53
+shang chuan 	上傳	c=1 d=0.794534 t=53
+shi shou 	實收	c=1 d=0.782705 t=53
+shou jiao 	收繳	c=2 d=1.64041 t=53
+shu ju 	數據	c=1 d=0.913931 t=53
+tian jia 	添加	c=3 d=2.59125 t=53
+ye wu 	業務	c=1 d=0.843665 t=53
+zhang dan 	賬單	c=3 d=2.52685 t=53
+zhao dao 	找到	c=1 d=0.860708 t=53
+zhi chu 	支出	c=1 d=0.882497 t=53
+zhi neng 	只能	c=1 d=0.941765 t=53
+zhong 	中	c=1 d=0.900325 t=53
+zi ji 	自己	c=1 d=0.951229 t=53
